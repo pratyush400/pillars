@@ -1,0 +1,6 @@
+#,Filter,Type of Filter,Descriptor,Filter Function,Notes About Filter,For Player Dashboard,Who has access?
+1,Submits more than 1 survey result per email,Statistical,Over Submittor,Excludes additional email responses from being collected.,If the response comes from same email account then it is not allowed. Either log in or respond from a different email.,N/A,Admins
+2,Submits from email accounts that fit Bot Accounts,Statistical,Known Bot,Allows them but flags them for further review,"If there is a series of email accounts such as example1@example.org and another from example2@example.org et cetera, then these are flagged. Could be other scenarios.",N/A,Admins
+3,Separate by Player Level,Reporting,By Player,Separates data by Player Level,For dashboard reporting,Yes,User
+4,Separate by Character Type,Reporting,By Character,Separates data by Character Type,For dashboard reporting,Yes,User
+5,Separate by Attribute,Reporting,By Attribute,Separates data by Attributes,For dashboard reporting,Yes,User

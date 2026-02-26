@@ -1,0 +1,11 @@
+#,SAR Roles (Systems Access Role),Player Levels,SAR Description,Notes
+1,Unregistered,Unregistered,"Can play the two survey games , but not the Bonus Questions or anything else",N/A
+2,User,Registered,Can also access Bonus questions and is eligible for Player leveling up,N/A
+3,User,Supporter,See leveling-up matrix for more detail,N/A
+4,User,Sustainer,See leveling-up matrix for more detail,N/A
+5,User,Partner,See leveling-up matrix for more detail,N/A
+6,User,Elder,See leveling-up matrix for more detail,N/A
+7,Admin Coordinator,Unregistered,All Admin Roles (Highest),Can assign its own role
+8,Admin,Unregistered,Basic Updates,Can only be assigned by Admin Coordinator
+9,Admin,Unregistered,Analytics,Can only be assigned by Admin Coordinator
+10,Admin,Unregistered,Audit,Can only be assigned by Admin Coordinator

@@ -1,0 +1,14 @@
+#,Functions Needed,Description,Notes
+1,Anyone can play,Playing the Top 10 Morals and The Rituals (not bonus questions) is allowed without providing any information/registering,N/A
+2,Player Registration,Registering Players and collecting needed information,N/A
+3,Player Leveling Up,To calculate when a Player has leveled-up and assigns correct new Player Level,All survey responses and other data collected follow to the new Player Level. Player can now view more of the website with new role (Player Level)
+4,Admin Update,Ability to update Player and/or Character information through Player requests and internal protocols.,Not for Players
+5,Survey data collection,Forms,See The Seven Pillars Matrix
+6,"Survey logic for Easy, Medium and Difficult survey modes","If Easy chosen, then can proceed to Medium. If Medium Chosen, can proceed to Difficult. If Difficult chosen, start with Easy and proceed forward. Can stop at any level and submit. Will only record level submitted (Easy, Medium or Difficult).",See also User Experience presentation
+7,Data collection cleansing,"How to deal with slight differences in entries. For example, “Do Not Kill” vs “Do Not Kill “?",Provide info before about choosing a preset option otherwise the selection may become a statistical outlier.
+8,Queries,"For dashboard reports, downloads.",See Database Components to Build
+9,Forms,For survey data collection,See Database Components to Build
+10,All required tables,For survey data collection,See Database Components to Build
+11,Reports,"For dashboard reports, downloads.",See Database Components to Build
+12,Audit Checks for Registering,"For QA, troubleshooting",To ensure an email is not registered more than once.
+13,Ability to run new surveys,A development environment to create new surveys.,May need to be phase 2.

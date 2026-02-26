@@ -70,3 +70,17 @@ body::before {
    max-width: 500px;
    color: #ddd;
 }
+
+.register-disabled {
+   background-color: #3339;
+   border: none;
+   color: white;
+   padding: 10px 20px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+   cursor: not-allowed;
+   border-radius: 25px;
+}

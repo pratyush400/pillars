@@ -37,7 +37,7 @@ body::before {
     padding: 10px 20px;
     background-color: #007BFF;
     color: white;
-    border-radius: 4px;
+    border-radius: 6.7px;
     text-decoration: none;
     margin-right: 8px;
     cursor: pointer;
@@ -49,10 +49,10 @@ body::before {
 
 .register2 {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 15px 25px;
     background-color: #ccc;
     color: #666;
-    border-radius: 4px;
+    border-radius: 6.7px;
     text-decoration: none;
     margin-right: 8px;
     cursor: not-allowed;
@@ -95,4 +95,3 @@ body::before {
    cursor: not-allowed;
    border-radius: 25px;
 }
-

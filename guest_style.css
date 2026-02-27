@@ -32,33 +32,31 @@ body::before {
     top: 0;
     left: 0;
 }
-.register{
-    background-color: #544caf;
-    border: none;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
+.register {
     display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-right: 8px;
     cursor: pointer;
-    border-radius: 25px;
-
 }
-.register2 {
-    background-color: #3c3b4e;
-    border: none;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 25px;
 
+.register:hover {
+    background-color: #0056b3;
+}
+
+.register2 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ccc;
+    color: #666;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-right: 8px;
+    cursor: not-allowed;
+    pointer-events: none;
 }
 .guest{
     background-color: #b324e7;
